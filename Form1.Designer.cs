@@ -163,6 +163,4 @@
         private System.Windows.Forms.ToolStripTextBox hourlyEmployeesToolStripMenuItem;
         private System.Windows.Forms.ToolStripTextBox comissionEmployeesToolStripMenuItem;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
-    }
-}
-//item removed  not this time
+    
