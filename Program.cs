@@ -8,9 +8,9 @@ namespace MinForms
 {
     static class Program
     {
-        /// <summary>
+        /// <summary> sum
         /// The main entry point for the application.
-        /// </summary>
+        /// </summary> sum
         [STAThread]
         static void Main()
         {
